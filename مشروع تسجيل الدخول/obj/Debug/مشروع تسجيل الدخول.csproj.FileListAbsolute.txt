@@ -1,0 +1,14 @@
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\bin\Debug\مشروع تسجيل الدخول.exe.config
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\bin\Debug\مشروع تسجيل الدخول.exe
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\bin\Debug\مشروع تسجيل الدخول.pdb
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\obj\Debug\مشروع تسجيل الدخول.csprojAssemblyReference.cache
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\obj\Debug\مشروع_تسجيل_الدخول.Form1.resources
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\obj\Debug\مشروع_تسجيل_الدخول.Properties.Resources.resources
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\obj\Debug\مشروع تسجيل الدخول.csproj.GenerateResource.cache
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\obj\Debug\مشروع تسجيل الدخول.csproj.CoreCompileInputs.cache
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\obj\Debug\مشروع تسجيل الدخول.exe
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\obj\Debug\مشروع تسجيل الدخول.pdb
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\obj\Debug\مشروع_تسجيل_الدخول.Form2.resources
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\obj\Debug\مشروع_تسجيل_الدخول.Form3.resources
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\obj\Debug\مشروع_تسجيل_الدخول.Form4.resources
+C:\Users\shahad\source\repos\مشروع تسجيل الدخول\مشروع تسجيل الدخول\obj\Debug\مشروع_تسجيل_الدخول.تسجيل_الطلاب.resources
